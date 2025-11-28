@@ -1,4 +1,4 @@
 # MagentaOS
-A OS, more shortly
+A OS, more shortly (or never, I don't know when I will ever edit this README again so...)
 
-###### Last edited: 11/28/2025 9:42 PM | 28.11.2025 21:42
+###### Last edited: 11/28/2025 9:43 PM | 28.11.2025 21:43
